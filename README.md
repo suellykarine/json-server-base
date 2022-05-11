@@ -7,7 +7,7 @@ Esse é o repositório com a base de JSON-Server + JSON-Server-Auth já configur
 ## Endpoints
 
 Assim como a documentação do JSON-Server-Auth traz (https://www.npmjs.com/package/json-server-auth), existem 5 endpoints que podem ser utilizados.
-A url base da API é :
+A url base da API é : https://atividade-json-server-suelly.herokuapp.com
 
 ### Rotas que não precisam de autenticação
 
