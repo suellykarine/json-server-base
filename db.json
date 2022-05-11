@@ -6,6 +6,74 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "suelly@mail.com",
+      "password": "$2a$10$ekLf7oGhH66iqn2IN1O4ouK4w9gRoySjM6r3J7BoAOrJ1nqi31l5W",
+      "name": "suelly",
+      "age": 40,
+      "id": 2
+    },
+    {
+      "email": "suelly1@mail.com",
+      "password": "$2a$10$HUsA/p0JWC9e1tNOg8imY./N48RO9wXJCKjXqzGUgpK0sAiUNiK1i",
+      "name": "suelly1",
+      "age": 40,
+      "id": 3
+    },
+    {
+      "email": "suelly3@mail.com",
+      "password": "$2a$10$KAMoxSJxBJ1nyxIjLUacAeJzHlHYlCK5dupr2qbaV.A8LpUyn0XSa",
+      "name": "suelly3",
+      "age": 40,
+      "ocupação": "estudante",
+      "id": 4
+    }
+  ],
+  "receitas": [
+    {
+      "type": "sweet",
+      "title": "brgadeiro",
+      "level": "easy"
+    },
+    {
+      "type": "salty",
+      "title": "pastel",
+      "level": "easy"
+    },
+    {
+      "type": "sweet",
+      "title": "bolo",
+      "level": "easy",
+      "id": 2
+    },
+    {
+      "userId": 2,
+      "type": "sweet",
+      "title": "bolo",
+      "level": "easy",
+      "id": 3
+    },
+    {
+      "type": "sweet",
+      "title": "geleia",
+      "level": "easy",
+      "userId": 2,
+      "id": 4
+    },
+    {
+      "type": "salty",
+      "title": "coxinha",
+      "level": "easy",
+      "userId": 3,
+      "id": 5
+    },
+    {
+      "type": "salty",
+      "title": "salgadinho",
+      "level": "easy",
+      "userId": 1,
+      "id": 6
     }
   ]
 }
